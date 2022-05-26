@@ -1,0 +1,22 @@
+id: DF3377114
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2021-11-12T09:20:08+00:00'
+last_modified: '2022-05-26T11:52:56.446793+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
+source_metadata:
+  base:
+    bb11:
+      image_group_id: I1PD95879
+      title: ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་སྙིང་པོའི་སྒྲུབ་ཐབས།
+      total_pages: 1734
+      order: 34
+      base_file: bb11.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
